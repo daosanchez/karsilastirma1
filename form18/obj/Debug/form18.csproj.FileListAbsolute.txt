@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\bin\Debug\form18.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\bin\Debug\form18.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\bin\Debug\form18.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form18\form18\obj\Debug\form18.pdb
